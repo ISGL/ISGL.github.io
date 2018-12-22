@@ -1,0 +1,14 @@
+Package: com.isgltheostestdeving.test1
+Filename: com.isgltheostestdeving.test1_0.0.1-1+debug_iphoneos-arm.deb
+SHA1: fc6fb68955c0b34fda4fc234847e793d34bc9497
+SHA256: 798e0cd7083e6786a74d3fde8e2e0b80099d600b3192c1d6323a74cabdb46b07
+MD5sum: a2b76cdc2f62a9cced7ecd835cb8acaf
+Size: 3874
+Name: test
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: test1 of idk ._. but yeah first tweak lol
+Maintainer: Pineapple
+Author: Pineapple
+Section: Tweaks
